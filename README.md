@@ -2,4 +2,4 @@
 Primer parte del proyecto
 Para ejecutar el sistema debes poner: 
 
-un archivo adicional.
+'''npm install react'''
